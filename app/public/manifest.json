@@ -1,0 +1,16 @@
+{
+    "name": "Text To Speech",
+    "short_name": "Text To Speech",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#abcdef",
+    "icons": [
+      {
+        "src": "app/favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
