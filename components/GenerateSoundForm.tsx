@@ -131,7 +131,7 @@ export function GenerateSoundForm({ handleGetAudio }: GenerateSoundFormProps) {
             )}
           />
           {/* Submit button */}
-          <Button type="submit" disabled={formSubmitting}>
+          <Button aria-label="Submit" type="submit" disabled={formSubmitting}>
             Submit
           </Button>
         </form>
